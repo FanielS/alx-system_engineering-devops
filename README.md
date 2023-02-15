@@ -1,1 +1,1 @@
-This is a file to test bash scripting
+This folder has tassks about shell init files, variables and expansions
